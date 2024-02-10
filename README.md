@@ -58,3 +58,7 @@
 - ROS and ROS2 documentation and tutorials. [ROS Documentation](http://wiki.ros.org/ROS/Documentation)
 - ROS community resources (forums, mailing lists). [ROS Community](http://wiki.ros.org/ROS/Community)
 - Advanced topics for further learning in robotics. [Advanced Robotics Topics](http://wiki.ros.org/ROS/Tutorials)
+
+
+# Arthor & Maintainned by:
+### Ronaldson Bellande
